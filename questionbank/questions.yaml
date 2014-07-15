@@ -1,0 +1,21 @@
+---
+1:
+    text: During a routine security assessment of a network, the security administrator discovers a user workstation with multiple SSH connections to servers outside the corporate network. Using a protocol analyzer, the administrator identifies hundreds of gigabytes of information being transferred to an external server via SCP. After identifying the user, the administrator discovers that today is the user’s last day of employment, and that the employee is going to work for a competitor. Which of the following tactics is being used to steal company secrets?
+    type: CASP
+    Answers:
+      a: Logic bomb
+      b: SSH worm
+      c: Data exfiltration
+      d: Privilege escalation
+      e: SAML exploit
+    Answer: c
+2:
+    text: When considering security requirements which require third party vendor requests, which of the following is a correctly ordered set of events from start to finish?
+    type: CASP
+    Answers:
+      a: RFP, RFQ, RFC
+      b: RFI, RFQ, RFP
+      c: RFP, RFQ, RFI
+      d: RFC, RFT
+    Answer: b
+...
